@@ -1,6 +1,6 @@
-# zee_palm
+# Zee Palm UI Code
 
-A new Flutter project.
+Fashion App Onboarding UI
 
 ## Getting Started
 
